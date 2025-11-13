@@ -1,0 +1,47 @@
+:root {
+  /* Brand Colors */
+  --brand-yellow: #ffe600;
+  --brand-blue: #3483fa;
+  --brand-blue-dark: #2968c8;
+  --brand-green: #00a650;
+  
+  /* Neutral Colors */
+  --text: #333;
+  --text-light: #666;
+  --text-muted: #999;
+  --bg: #f5f5f5;
+  --surface: #fff;
+  --border: #ddd;
+  --border-light: #eee;
+  
+  /* Semantic Colors */
+  --success: #00a650;
+  --warning: #f7931a;
+  --error: #d73527;
+  
+  /* Layout */
+  --radius: 12px;
+  --radius-sm: 6px;
+  --shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
+  --shadow-lg: 0 12px 40px rgba(0, 0, 0, 0.15);
+  --maxw: 1200px;
+  
+  /* Z-index */
+  --z-overlay: 900;
+  --z-drawer: 1000;
+  --z-modal: 1100;
+    
+  /* Breakpoints */
+  --bp-sm: 576px;
+  --bp-md: 768px;
+  --bp-lg: 992px;
+  --bp-xl: 1200px;
+  
+  /* Spacing */
+  --space-xs: 4px;
+  --space-sm: 8px;
+  --space-md: 16px;
+  --space-lg: 24px;
+  --space-xl: 32px;
+  --space-2xl: 48px;
+}
